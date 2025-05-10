@@ -1,0 +1,5 @@
+# Node modules (huge folder, never push)
+node_modules/
+
+# Environment variables (never expose secrets)
+.env
